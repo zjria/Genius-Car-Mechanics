@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "name": "Repair tair",
+    "price": 2000,
+    "time": 2,
+    "discription": "making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default",
+    "img": "https://i.ibb.co/wwmJz8n/1.png"
+}, {
+    "id": 2,
+    "name": "Engine repair service",
+    "price": 5000,
+    "time": 4,
+    "discription": "making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default",
+    "img": "https://i.ibb.co/vqtrYF1/7.png"
+}, {
+    "id": 3,
+    "name": "Petrol & Disel Over night",
+    "price": 1500,
+    "time": 1,
+    "discription": "making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default",
+    "img": "https://i.ibb.co/VmgGFsV/3.png"
+}, {
+    "id": 4,
+    "name": "Engine Wash",
+    "price": 2500,
+    "time": 2,
+    "discription": "making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default",
+    "img": "https://i.ibb.co/gR61RQY/4.png"
+}, {
+    "id": 5,
+    "name": "Engine Setup",
+    "price": 5000,
+    "time": 4,
+    "discription": "making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default",
+    "img": "https://i.ibb.co/d796bF8/5.png"
+}, {
+    "id": 6,
+    "name": "Car mechanic",
+    "price": 8000,
+    "time": 6,
+    "discription": "making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default",
+    "img": "https://i.ibb.co/Rby0yzb/6.png"
+}]

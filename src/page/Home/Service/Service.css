@@ -1,0 +1,10 @@
+.service-style {
+    border: 3px solid lightsalmon;
+    background-color: rgb(231, 210, 210);
+    border-radius: 0px 0px 20px 20px;
+
+}
+
+.service-style img {
+    width: 100%;
+}
